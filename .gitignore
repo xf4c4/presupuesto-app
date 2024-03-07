@@ -1,0 +1,11 @@
+#Front Directories and files
+
+/presupuesto-front/node_modules
+
+###############################
+
+#Backend Directories and files
+
+/presupuesto-back/vendor
+
+###############################
